@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exercicio4</string>
+    <string name="texto">Texto</string>
+    <string name="estilo">Estilo</string>
+    <string name="negrito">Negrito</string>
+    <string name="italico">Itálico</string>
+    <string name="sublinhado">Sublinhado</string>
+    <string name="tamanho_letra">Tamanho da letra</string>
+    <string name="cor_da_letra">Cor da letra</string>
+    <string name="vermelho">Vermelho\n</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="limpar_formatacao">Limpar Formatação</string>
+</resources>
